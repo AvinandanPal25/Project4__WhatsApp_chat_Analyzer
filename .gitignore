@@ -1,0 +1,6 @@
+waca_venv/
+__pycache__/
+Other accessories/
+analyzer.ipynb
+get-pip.py
+*chat_file*
