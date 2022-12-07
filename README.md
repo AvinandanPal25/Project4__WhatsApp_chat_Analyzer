@@ -64,9 +64,9 @@ For which some other files like requirements.txt file, setup file. Procfile etc 
 
 ## **APP Screenshots:--**
 
-![App Interface](https://drive.google.com/file/d/1NxZ-6DV2m7HaMjYF7XHoZbYl8p16hOyp/view?usp=sharing)
-![Most Active Hours of a Day](https://drive.google.com/file/d/1dLKLeWMK4XbFyLJDtr8YLK6VpiLvGzvc/view?usp=sharing)
-![Busiest Day of a month](https://drive.google.com/file/d/1GpSl7xWGT1GmpvYQyI80Ac0bY5yHNb4D/view?usp=sharing)
+![App Interface](https://drive.google.com/uc?export=view&id=1NxZ-6DV2m7HaMjYF7XHoZbYl8p16hOyp)
+![Most Active Hours of a Day](https://drive.google.com/uc?export=view&id=1dLKLeWMK4XbFyLJDtr8YLK6VpiLvGzvc) 
+![Busiest Day of a month](https://drive.google.com/uc?export=view&id=1GpSl7xWGT1GmpvYQyI80Ac0bY5yHNb4D)
 
 
 ## **Deployed App:--**
