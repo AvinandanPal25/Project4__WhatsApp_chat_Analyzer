@@ -66,7 +66,7 @@ For which some other files like requirements.txt file, setup file. Procfile etc 
 
 #### "App Interface"
 
-![App Interface](https://drive.google.com/uc?export=view&id=1NxZ\-6DV2m7HaMjYF7XHoZbYl8p16hOyp)
+![App Interface](https://drive.google.com/uc?export=view&id=1NxZ-6DV2m7HaMjYF7XHoZbYl8p16hOyp)
 #### "Busiest Day of a month"
 
 ![Busiest Day of a month](https://drive.google.com/uc?export=view&id=1GpSl7xWGT1GmpvYQyI80Ac0bY5yHNb4D)
